@@ -1,0 +1,5 @@
+runs/
+reduce_bitmap_size.ipynb
+__pycache__/
+.DS_*
+.ipynb_checkpoints
